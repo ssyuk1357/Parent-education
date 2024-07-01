@@ -1,0 +1,8 @@
+name: 안녕
+age: 8
+gender: 남성
+role: 아들
+personality: 안녕
+hobbies: 안녕
+speaking_style: 안녕
+parent_role: 엄마
