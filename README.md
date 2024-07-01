@@ -1,4 +1,4 @@
-# **${\textsf{\color{Green}투게덜래}}$**
+# **${\textsf{\color{DarkGreen}투게덜레(Togther-ae)}}$**
 
 ## 1. 서비스 소개 및 기능
 **- 자녀 양육 보조**
