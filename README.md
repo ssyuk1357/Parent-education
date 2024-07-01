@@ -1,4 +1,4 @@
-# 투게덜레(Togther-ae)
+# <span style="color:green">투게덜레(Togther-ae)</span>
 
 ## 1. 서비스 소개 및 기능
 **- 자녀 양육 보조**
